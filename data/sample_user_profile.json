@@ -1,0 +1,9 @@
+{
+  "user_id": "demo_user_001",
+  "primary_goal": "improve sleep and daily energy",
+  "avg_sleep_hours": 5.8,
+  "stress_level": 7,
+  "daily_water_cups": 4,
+  "activity_level": "low",
+  "preference": "simple routines under 10 minutes"
+}
